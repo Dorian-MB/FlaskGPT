@@ -1,0 +1,7 @@
+.openai_api_key
+.flaskgpt_env
+.mypy_cache
+.DS_Store
+test.py
+__pycache__
+note.txt
