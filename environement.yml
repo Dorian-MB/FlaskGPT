@@ -1,4 +1,4 @@
-name: /Users/dorian/Documents/CODE/python/python_web/flask_gpt/.flaskgpt_env
+name: /Users/dorian/Documents/CODE/python/python_web/FlaskGPT/.flaskgpt_env
 channels:
   - defaults
 dependencies:
@@ -60,4 +60,4 @@ dependencies:
   - wheel=0.41.2=py311hecd8cb5_0
   - xz=5.4.5=h6c40b1e_0
   - zlib=1.2.13=h4dc903c_0
-prefix: /Users/dorian/Documents/CODE/python/python_web/flask_gpt/.flaskgpt_env
+prefix: /Users/dorian/Documents/CODE/python/python_web/FlaskGPT/.flaskgpt_env
