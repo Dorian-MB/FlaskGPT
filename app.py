@@ -5,6 +5,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 from flask import Flask, url_for, render_template, request, Response
 
+# Credit : https://github.com/DocstringFr/FlaskGPT
 
 # OPENAI API KEY###################################################
 dotenv_path = Path(__file__).parent / ".openai_api_key"
